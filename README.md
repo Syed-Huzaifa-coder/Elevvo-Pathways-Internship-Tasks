@@ -13,6 +13,7 @@ Each task demonstrates practical applications of core ML techniques — from reg
 |  2️⃣  | Task 4 | Loan Approval Prediction         | Logistic Regression, Decision Tree, SMOTE       |
 |  2️⃣  | Task 5 | Movie Recommendation System      | User-Based & Item-Based Collaborative Filtering |
 
+
 🧩 Level 1 Tasks
 🧮 Task 1: Student Exam Score Prediction
 
@@ -31,6 +32,7 @@ Tools & Libraries:
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 Bonus: Visualized regression line and residuals.
+
 
 🛍️ Task 2: Customer Segmentation (Clustering)
 
@@ -52,6 +54,7 @@ Analyzed average spending per cluster
 
 Tools & Libraries:
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
 
 ⚙️ Level 2 Tasks
 🌲 Task 3: Forest Cover Type Classification
@@ -78,6 +81,7 @@ Compared RandomForest vs XGBoost performance
 
 Tools & Libraries:
 Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
+
 
 💰 Task 4: Loan Approval Prediction
 
@@ -107,6 +111,7 @@ Compared model performance on imbalanced vs. balanced data
 Tools & Libraries:
 Python, Pandas, Scikit-learn, Imbalanced-learn
 
+
 🎬 Task 5: Movie Recommendation System
 
 Goal:
@@ -127,10 +132,12 @@ Used SVD (Matrix Factorization) for performance comparison
 Tools & Libraries:
 Python, Pandas, NumPy, Scikit-learn, Surpris
 
+
 🧰 General Tools Used
 Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Imbalanced-learn
 Environment: Jupyter Notebook / Google Colab
+
 
 🧑‍💻 About the Internship
 Organization: Elevvo Pathways
@@ -138,6 +145,7 @@ Location: Cairo, Egypt
 Role: Machine Learning Intern
 Focus Areas:
 Regression, Clustering, Classification, Recommendation Systems, Model Evaluation & Optimization
+
 
 🏁 Results Summary:
 | Task | Model(s) Used               | Best Performance Metric            |
@@ -147,6 +155,7 @@ Regression, Clustering, Classification, Recommendation Systems, Model Evaluation
 | 3    | XGBoost                     | Balanced Accuracy ≈ 0.88           |
 | 4    | Logistic Regression (SMOTE) | F1 ≈ 0.82                          |
 | 5    | User-Based CF               | Precision@K ≈ 0.78                 |
+
 
 📜 Author
 
